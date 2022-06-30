@@ -1,0 +1,3 @@
+1. Finish encryption_modular.py
+2. Learn Cython and redo encryption, encryption_involution, encryption_modular.
+3. Learn C++ and redo encryption, encryption_involution, encryption_modular.
